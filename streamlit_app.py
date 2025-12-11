@@ -1,7 +1,4 @@
-
-st.title(":orange[Hello, *World!*] :sunglasses:")
-st.write("
-    import streamlit as st
+import streamlit as st
 
 with st.container():
     st.write("This is inside the container")
