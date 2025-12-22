@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write("Hello, *WARYOW* :sunglasses:")
+st.write("Hello, *MINuS* :sunglasses:")
 
 
 
